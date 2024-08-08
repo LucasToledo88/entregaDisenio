@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@font-face{
+    font-family: "Raleway-regular";
+    src: url(../font/Raleway/static/Raleway-Regular.ttf);
+}
+body {
+    background-color:rgb(233, 229, 225);
+    font-family: "Raleway-Regular";
+}
+header{
+    background-color: darkgrey;
+    text-align: center;
+    padding: 10px;
+    
+}
+nav {
+    display: inline-block;
+  }
+
+.contenedor-logo{
+    text-align: center;
+    
+
+}
+.logo{
+    width: 250px;
+}
+
